@@ -1,5 +1,5 @@
-### Hi there 👋, I am Ayush Dixit
-#### A Mobile and Web Developer
+### Hi there 👋, I am AYUSH DIXIT
+#### Mobile and Web Developer
 IIT Guwahati 2027(ECE)
 Senior App Developer at Students' Web Committee IITG
 
