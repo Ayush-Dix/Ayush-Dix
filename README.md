@@ -1,5 +1,5 @@
 ### Hi there 👋, I am AYUSH DIXIT
-#### Mobile and Web Developer
+#### Mobile App and Web Developer
 IIT Guwahati 2027(ECE)
 Senior App Developer at Students' Web Committee IITG
 
