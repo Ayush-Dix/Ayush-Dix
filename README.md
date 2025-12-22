@@ -1,11 +1,11 @@
 ### Hi there 👋, I am AYUSH DIXIT
 #### Mobile App and Web Developer
-IIT Guwahati 2027(ECE)
-Senior App Developer at Students' Web Committee IITG
+
+### IIT Guwahati 2027(ECE)
+### Senior App Developer at Students' Web Committee IITG
 
 Skills: FLUTTER / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
 - 📫 How to reach me: www.linkedin.com/in/ayush--dixit 
 
 
